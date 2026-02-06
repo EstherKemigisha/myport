@@ -53,9 +53,9 @@
         <h2 class="section-title animate-on-scroll">About Me</h2>
         <div class="about-wrapper animate-on-scroll">
           <div class="about-content">
-            <p>I'm a passionate Developer focused on creating intuitive and responsive user interfaces.</p>
+            <p>I'm a passionate SoftwareDeveloper focused on creating intuitive and responsive user interfaces.</p>
             <p>I build scalable full-stack applications that deliver seamless user experiences. Driven by clean UI, usability, and performance optimization. Continuously learning and evolving with the latest technologies.</p>
-            <p>In addition to web development, I bring strong graphic design skills that help create visually appealing and cohesive user experiences. My expertise includes:</p>
+            <p>In addition to Software development, I bring strong graphic design skills that help create visually appealing and cohesive user experiences. My expertise includes:</p>
             <ul>
               <li>Seamlessly integrating visuals with frontend code for polished, brand-consistent results</li>
             </ul>
