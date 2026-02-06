@@ -99,6 +99,14 @@
                 <p>Node.js</p>
               </div>
               <div class="skill-item animate-on-scroll">
+                <i class="fab fa-python"></i>
+                <p>Python</p>
+              </div>
+              <div class="skill-item animate-on-scroll">
+                <i class="fas fa-server"></i>
+                <p>NestJS</p>
+              </div>
+              <div class="skill-item animate-on-scroll">
                 <i class="fas fa-database"></i>
                 <p>MongoDB</p>
               </div>
