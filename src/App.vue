@@ -21,7 +21,7 @@
           <div class="header-text">
             <p style="font-size: 1.2rem; margin-bottom: 0.5rem; opacity: 0.9;">Hello I'm,</p>
             <h1>Esther Kemigisha</h1>
-            <h2>Full Stack Developer & UI/UX Designer</h2>
+            <h2>Software Developer & UI/UX Designer</h2>
             <div class="summary-text">
               <p>Passionate Software Developer creating intuitive user interfaces .</p>
               <p>Building scalable full-stack applications that deliver seamless user experiences, driven by clean UI and performance optimization.</p>
@@ -53,7 +53,7 @@
               <a href="https://github.com/EstherKemigisha" class="about-social-link" target="_blank" rel="noopener noreferrer">
                 <i class="fab fa-github"></i>
               </a>
-              <a href="https://linkedin.com/in/esther-kemigisha" class="about-social-link" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/esther-kemigisha/" class="about-social-link" target="_blank" rel="noopener noreferrer">
                 <i class="fab fa-linkedin-in"></i>
               </a>
               <a href="https://wa.me/257788345329" class="about-social-link" target="_blank" rel="noopener noreferrer">
@@ -167,10 +167,13 @@
           </div>
           
           <div class="project-card animate-on-scroll">
-            <img src="/images/Jewelry.png" alt="KHOHAV Jewelry" class="project-img">
+            <a href="https://khohav-8vi1kkfmx-kemigisha-esthers-projects.vercel.app" target="_blank" rel="noopener noreferrer">
+              <img src="/images/Jewelry.png" alt="KHOHAV Jewelry" class="project-img">
+            </a>
             <div class="project-content">
               <h3 class="project-title">KHOHAV – Jewelry E-commerce</h3>
               <p>Modern e-commerce frontend for elegant and timeless jewelry brand with seamless shopping experience.</p>
+              <a href="https://khohav-8vi1kkfmx-kemigisha-esthers-projects.vercel.app" target="_blank" rel="noopener noreferrer" class="project-link">View Live →</a>
             </div>
           </div>
         </div>
@@ -202,10 +205,10 @@
             </div>
             
             <div class="social-links animate-on-scroll">
-              <a href="https://linkedin.com/in/esther-kemigisha" class="social-link" target="_blank">
+              <a href="https://www.linkedin.com/in/esther-kemigisha/" class="social-link" target="_blank" rel="noopener noreferrer">
                 <i class="fab fa-linkedin-in"></i>
               </a>
-              <a href="https://github.com/esther-kemigisha" class="social-link" target="_blank">
+              <a href="https://github.com/EstherKemigisha" class="social-link" target="_blank" rel="noopener noreferrer">
                 <i class="fab fa-github"></i>
               </a>
             </div>
