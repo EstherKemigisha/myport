@@ -278,45 +278,49 @@ body::after {
   display: flex;
   gap: 1rem;
   margin: 2rem 0;
+  align-items: center;
 }
 
 .header-social-link {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   background: transparent;
-  color: var(--primary-green);
+  color: white;
   border-radius: 50%;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   transition: all 0.3s ease;
-  border: 2px solid var(--primary-green);
+  border: 2px solid rgba(255, 255, 255, 0.3);
 }
 
 .header-social-link:hover {
   background: var(--primary-green);
   color: white;
-  transform: scale(1.2);
-  box-shadow: 0 0 20px var(--primary-green);
+  border-color: var(--primary-green);
+  transform: scale(1.1);
+  box-shadow: 0 0 15px var(--primary-green);
 }
 
 .get-in-touch-btn {
   display: inline-block;
-  padding: 1rem 2.5rem;
-  background: var(--primary-green);
+  padding: 0.6rem 1.5rem;
+  background: var(--navy-blue);
   color: white;
   text-decoration: none;
   border-radius: 8px;
   font-weight: 500;
-  font-size: 1.1rem;
+  font-size: 0.95rem;
   transition: all 0.3s ease;
-  margin-top: 1rem;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  margin-left: 1rem;
 }
 
 .get-in-touch-btn:hover {
-  background: #0a9e0a;
-  transform: translateY(-3px);
+  background: var(--primary-green);
+  border-color: var(--primary-green);
+  transform: translateY(-2px);
   box-shadow: 0 5px 20px rgba(14, 228, 14, 0.4);
 }
 
