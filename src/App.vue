@@ -3,6 +3,7 @@
     <!-- Navigation -->
     <nav class="nav" :class="{ 'is-scrolled': isScrolled }">
       <div class="container">
+        <div class="nav-brand">Esther Kemigisha</div>
         <ul class="nav-list">
           <li><a href="#header" class="nav-link">Home</a></li>
           <li><a href="#about" class="nav-link">About</a></li>
@@ -11,6 +12,7 @@
           <li><a href="#contact" class="nav-link">Contact</a></li>
         </ul>
       </div>
+      <div class="nav-line"></div>
     </nav>
 
     <!-- Header -->
